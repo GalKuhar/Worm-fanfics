@@ -13,9 +13,13 @@ Kakor z vsako drugo popularno zgodbo, so tudi za Worm ljubitelji kmalu začeli p
 
 Narediti podatkovno bazo za fanfice, ki omogoča iskanje po naslovih, avtorjih, straneh na katerih so,... Dodatno lahko za vsak fic gledamo tudi po poglavjih, da vidimo kdaj so se posamezni fici pisali.
 
-Dodajamo lahko poglavja, ki se avtomatsko prištejejo svojim ficom, ali pa naredijo nov fic, če je to prvo poglavje.
+Uporabnik lahko doda poglavja, ki se avtomatsko prištejejo svojim ficom, ali pa naredijo nov fic, če je to prvo poglavje.
 
-- Opomba: to že obstaja: [Worm story search](https://wormstorysearch.com/)
+Če je nekdo avtor, dobi nadzor nad svojim ficom.
+
+Admin ima nadzor nad celotno bazo.
+
+- Opomba: to delno že obstaja: [Worm story search](https://wormstorysearch.com/)
 
 ## Podatki:
 
