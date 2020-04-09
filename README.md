@@ -33,6 +33,6 @@ Podatki so bili pridobljeni in obdelani v okviru [projektne naloge za Programira
 
 Osebno je Worm ena mojih najljubših zgodb, in jo toplo priporočam vsem, če imate čas.
 
-Osebno bi opisal kot: Worm je za Spidermana to, kar je Pesem Ledu in Ognja (Igra prestolov) za Gospodarja Prstanov.
+Osebno bi opisal kot: Worm je za Spider-mana to, kar je Pesem Ledu in Ognja (Igra Prestolov) za Gospodarja Prstanov.
 
 Če komu ni do branja, obstaja fanmade [audiobook](http://audioworm.rein-online.org/), če pa koga zanima literarna analiza, pa zelo priporočam [We've got worm podcast](https://www.doofmedia.com/weve-got-worm/) ([dostopen tudi na youtube](https://www.youtube.com/watch?v=4HydKjQMzJ8&list=PLCW6KR4MVOXaGS2KlDJzWITG0RzAJ9NLo)), kjer greta dva bralca, prvi, ki zgodbo bere prvič in drugi, ki jo je že prebral čez celo zgodbo po poglavjih, in jih nato analizirata.
